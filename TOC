@@ -1,0 +1,322 @@
+Developing an ecommerce web application with Laravel 5.8
+========================================================
+
+Section 1: Introduction
+
+1. Introduction
+
+Section 2: Preparing application
+
+2. Preparing application
+
+Section 3: Header and footer design
+
+3. Header
+4. Header
+5. Header
+6. Header
+7. Footer
+8. Footer
+
+Section 4: User panel
+
+9. Roles
+10. User panel
+11. User panel
+
+Section 5: Introducing repositories and data filters
+
+12. Repositories
+13. Data filters
+14. Data filters
+
+Section 6: Brands management
+
+15. Brands management
+16. Brands management
+17. Brands management
+18. Brands management
+19. Brands management
+
+Section 7: Javascript reusable components
+
+20. JS request component
+21. JS ajax form component
+22. Js ajax form component
+23. JS ajax form component
+24. JS list component
+25. JS data list component
+26. JS data list component
+27. JS data list component
+28. JS data list component
+29. JS data list component
+30. JS data list component
+31. JS data list component
+
+Section 8: More on brands management
+
+32. Brands management
+33. More methods for repositories
+34. Brands management
+35. Brands management
+36. Brands management
+37. Brands management
+
+Section 9: Categories management
+
+38. Categories management
+39. Categories management
+40. JS selectable list component
+41. JS selectable list component
+42. Categories management
+43. Categories management
+44. Categories management
+45. Categories management
+
+Section 10: Filters management
+
+46. Filters management
+47. Filters management
+48. Filters management
+49. JS modal component
+
+Section 11: Options management
+
+50. Options management
+51. Options management
+52. Options management
+53. Options management
+54. Options management
+55. Options management
+56. Options management
+
+Section 12: Category filters management
+
+57. Category filters management
+58. Category filters management
+59. Category filters management
+60. Category filters management
+61. Category filters management
+62. Category filters management
+
+Section 13: Products management
+
+63. Products management
+64. Products management
+65. Products management
+66. Products management
+67. Products management
+68. Products management
+69. Products management
+70. Products management
+
+Section 14: Product categories management
+
+71. Product categories management
+72. product categories management
+73. Product categories management
+74. Product categories management
+
+Section 15: Product options management
+
+75. Product options management
+76. Product options management
+77. Product options management
+78. Product options management
+79. Product options management
+
+Section 16: More on products management
+
+80. Products management
+81. Products management
+82. Products management
+
+Section 17: Reviews management
+
+83. Reviews management
+
+84. Reviews management
+
+Section 18: Fixing problems
+
+85. Fixing products problems
+86. Adding header functionalities
+87. Product repository new methods
+
+Section 19: Creating category page
+
+88. Category page
+89. Category page
+90. Adding methods to php helpers file
+91. Category page
+92. Category page
+93. Category page
+94. Category page
+95. Category page
+96.Category page
+97. Category page
+98. Category page
+99. Product filter new methods
+
+Section 20: Products search
+
+1100. Showing list of products
+1101. Showing list of products
+1102. Product searching
+1103. Products search page
+1104. Products search page
+1105. Products search page
+1106. Products search page
+1107. Products search page
+1108. Products search page
+
+Section 21: Product details
+
+1109. Product details
+1110. Product details
+1111. Product details page
+1112. Product details page
+1113. Product details page
+1114. Product details page
+1115. Product details page
+1116. Product details page
+1117. Product details page
+1118. Product details page
+
+Section 22: Product reviews
+
+1119. Product reviews
+1120. Product reviews
+1121. Product reviews
+
+Section 23: Shopping cart components
+
+1122. Cart component
+1123. Cart component
+1124. Cart controller
+1125. Cart page
+1126. Cart page
+1127. Cart page
+1128. Cart page
+
+Section 24: Coupon management
+
+1129. Coupon management
+1130. Coupon management
+1131. Coupon management
+1132. Coupon management
+1133. Coupon management
+1134. Coupon management
+1135. Coupon management
+1136. Coupon management
+
+Section 25: Application settings
+
+1137. Application settings
+1138. Application settings
+
+Section 26: Order components
+
+1139. Order model and controller
+1140. Order checkout
+1141. Order checkout page
+1142. Order checkout page
+1143. Order coupon apply
+1144. Orders and user_coupons tables
+1145. Order register
+1146. Order track
+
+Section 27: Orders management
+
+1147. Orders management
+1148. Orders management
+1149. Order details page
+1150. Order items
+1151. My orders
+
+Section 28: Creating filtering views
+
+1152. Order filter
+1153. Review filter
+
+Section 29: Wish list
+
+1154 A. Wish model and component
+1154 B. Wish controller
+1154 C. Wish list page
+1155. Wish list page
+1156. Product quick look
+1157. Adding wish to header
+
+Section 30: Recommender system
+
+1158. Recommender system
+1159. Recommender system
+1160. Recommender system
+1161. Recommender system
+1162. JS slider component
+1163. JS slider component
+1164. Recommender system
+1165. Recommender system
+1166. Product reviews
+
+Section 31: Home content management
+
+1167. Home content management
+1168. Home content management
+1169. Home content management
+1170. Home content management
+1171. Home content management
+1172. Home content management
+1173. Product repository new methods
+1174. Home product slider
+1175. Home best sellers
+1176. Home product slider
+
+Section 32: Showing personalized recommendations
+
+1177. Personalized recommendations
+1178. Personalized recommendations
+
+Section 33: Reporting
+
+1179. Reporting
+1180. Reporting
+1181. Reporting
+1182. Reporting
+1183. Reporting
+1184. Reporting
+1185. Reporting
+
+Section 34: Promotions management
+
+1186. Promos management
+1187. Promos management
+1188. Promos management
+1189. Pomos management
+1190. Promos management
+
+Section 35: Using promotions
+
+1191. Promos
+1192. Promos
+
+Section 36: Payment
+
+1193. Order payment
+1194. Order payment
+1195. Order payment
+
+Section 37: Fixing past problems
+
+1196. Fixing problems
+1197. Fixing reports problem
+2198. Fixing problems
+2199. Fixing problems
+2200. Fixing problems
+2201. Fixing problems
+2202. Fixing problems
+2203. Fixing problems
+2204. Fixing problems
+2205. Fixing problems
+
